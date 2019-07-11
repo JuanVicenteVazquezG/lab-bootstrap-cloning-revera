@@ -1,0 +1,56 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+  margin: 0;
+}
+.white {
+  background-color: #fff;
+  margin:0;
+}
+
+.tomato {
+  background-color: #ed564b;
+}
+.dark-gray {
+  background-color: #606060;
+  color: #fff;
+}
+
+.almost-black {
+  background-color: #3b3b3b;
+  color: #fff;
+}
+.menu {
+  width: 100%;
+}
+.h1 {
+  font-size: 32;
+}
+.h1 a,
+.h1 a:visited {
+  text-decoration: none;
+  color: #000;
+  font-weight: 700;
+}
+
+.menu ul {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.menu ul li {
+  display: inline-block;
+  margin: 0 0.5% 0 0.5%;
+  vertical-align: text-bottom;
+}
+
+.menu ul li a, .menu ul li a :visited {
+  display: block;
+  color: #000;
+}
+
+.slider {
+  widows: 100%;
+  margin: 0;
+  padding: 0;
+}
